@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="724c420a-fb70-4cd6-9533-ebe3b5f83693" name="Changes" comment="Curso Java_Udemy&#10;Seção 4.23&#10;Inserção de um int e double">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="724c420a-fb70-4cd6-9533-ebe3b5f83693" name="Changes" comment="Curso Java_Udemy&#10;Seção 4.23&#10;Delimitando casas decimais">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,12 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677630514500</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Curso Java_Udemy&#10;Seção 4.23&#10;Delimitando casas decimais">
+      <created>1677630983882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677630983882</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Curso Java_Udemy&#10;Seção 4.23" />
     <MESSAGE value="Curso Java_Udemy&#10;Seção 4.23&#10;Inserção de um int e double" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curso Java_Udemy&#10;Seção 4.23&#10;Inserção de um int e double" />
+    <MESSAGE value="Curso Java_Udemy&#10;Seção 4.23&#10;Delimitando casas decimais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso Java_Udemy&#10;Seção 4.23&#10;Delimitando casas decimais" />
   </component>
 </project>
